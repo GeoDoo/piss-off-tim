@@ -1,0 +1,44 @@
+{
+  "headers": [
+    { "key": "customer", "value": "Customer" },
+    { "key": "pass-type-id", "value": "Pass Type Id" },
+    { "key": "pass-type", "value": "Pass Type" },
+    { "key": "push-token", "value": "Push Token" },
+    { "key": "balance", "value": "Balance" },
+    { "key": "status", "value": "Status" }
+  ],
+  "rows": [
+    {
+      "customer": "Prof. Dr. Kerem Kumcuo\u011flu",
+      "pass_type_id": "pass.com.ocuzdan.main",
+      "pass_type": "storeCard",
+      "push_token": null,
+      "balance": 0,
+      "status": 1
+    },
+    {
+      "customer": "\u015eahnur Y\u0131lmazer",
+      "pass_type_id": "pass.com.ocuzdan.main",
+      "pass_type": "storeCard",
+      "push_token": null,
+      "balance": 0,
+      "status": 1
+    },
+    {
+      "customer": "Do\u00e7. Dr. Burak Do\u011fan",
+      "pass_type_id": "pass.com.ocuzdan.main",
+      "pass_type": "storeCard",
+      "push_token": null,
+      "balance": 0,
+      "status": 1
+    },
+    {
+      "customer": "Sinem Balc\u0131",
+      "pass_type_id": "pass.com.ocuzdan.main",
+      "pass_type": "storeCard",
+      "push_token": null,
+      "balance": 0,
+      "status": 1
+    }
+  ]
+}
