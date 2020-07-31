@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
-import { v4 } from 'uuid';
+import { v4 } from "uuid";
+
+import "./Table.pcss";
 
 const Table = ({ dataSource }) => {
   const [data, setData] = useState(null);
