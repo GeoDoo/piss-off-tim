@@ -24,7 +24,7 @@ const Table = ({ dataSource }) => {
     <table>
       <thead>
         <tr>
-          {headers.map(({ key, value }) => (
+          {headers.map(({ value }) => (
             <th key={v4()}>{value}</th>
           ))}
         </tr>
