@@ -19,5 +19,15 @@ describe("Table", () => {
     screen.getByText("Push Token");
     screen.getByText("Balance");
     screen.getByText("Status");
+    
+    screen.getByText("Prof. Dr. Kerem Kumcuoğlu");
+    screen.getByText("Şahnur Yılmazer");
+    screen.getByText("Doç. Dr. Burak Doğan");
+    screen.getByText("Sinem Balcı");
+    
+    screen.getAllByText("pass.com.ocuzdan.main");
+    screen.getAllByText("storeCard");
+    screen.getAllByText("0");
+    screen.getAllByText("1");
   });
 });
